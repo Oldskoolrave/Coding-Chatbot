@@ -1,0 +1,29 @@
+
+[
+    {
+        "user_input": "What is the difference between '==' and '===' in JavaScript?",
+        "chatbot_response": "In JavaScript, '==' is a loose equality comparison, while '===' is a strict equality comparison. The strict comparison also checks for data type equality.",
+        "topic": "javascript"
+    },
+    {
+        "user_input": "How do I create a Python function?",
+        "chatbot_response": "To create a Python function, use the 'def' keyword followed by the function name and parameters. Don't forget the indentation for the function body.",
+        "topic": "python"
+    },
+    {
+        "user_input": "What is the purpose of the 'git clone' command?",
+        "chatbot_response": "The 'git clone' command is used to create a copy of a remote Git repository on your local machine. It's commonly used for getting a copy of a project to work on.",
+        "topic": "git"
+    },
+    {
+        "user_input": "How do I use a for loop in Java?",
+        "chatbot_response": "In Java, you can use the 'for' loop to iterate over a sequence of elements. The syntax is 'for (initialization; condition; update) { // loop body }'.",
+        "topic": "java"
+    },
+    {
+        "user_input": "Generate a random number in Python",
+        "chatbot_response": "You can use the 'random' module in Python to generate a random number. For example, 'import random' and then 'random_number = random.randint(1, 10)' will generate a random integer between 1 and 10.",
+        "topic": "python"
+    }
+]
+

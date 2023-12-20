@@ -1,0 +1,28 @@
+
+coding_chatbot/
+|-- chatbot/
+|   |-- __init__.py 
+|   |-- chatbot.py
+|
+|-- data/
+|   |-- conversation_data.json 
+|
+|-- models/
+|   |-- __init__.py 
+|   |-- classifier_model.py
+|   |-- code_generation_model.py
+|
+|-- utils/
+|   |-- __init__.py 
+|   |-- feedback_utils.py
+|   |-- language_utils.py
+|   |-- logging_utils.py
+|   |-- maintenance_utils.py 
+|   |-- preprocessing_utils.py 
+|   |-- reinforcement_learning_utils.py
+|   |-- scheduling_utils.py
+|
+|-- chatbot.adapter.py
+|-- main.py
+|-- requirements.txt
+|-- setup.py

@@ -1,0 +1,12 @@
+
+# requirements.txt
+# This file contains the necessary dependencies.
+chatterbot==1.0.5
+nltk==3.7
+scikit-learn==1.0.2
+tensorflow==2.15.0
+tokenizers==0.15.0
+gym==0.26.2
+requests==2.27.1
+torbrowser-launcher==0.3.1
+
