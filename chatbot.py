@@ -1,4 +1,3 @@
-
 # Author - X3r1n
 # Date - 09/12/2023
 # chatbot/chatbot.py
@@ -31,7 +30,6 @@ class Chatbot:
         return self.logic_adapter.handle(user_input)
 
 tor_context = TorRequest.get_context()
-
 
 class Chatbot:
     def __init__(self):
