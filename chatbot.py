@@ -1,4 +1,4 @@
-# Author - X3r1n
+# Author - Oldskoolrave
 # Date - 09/12/2023
 # chatbot/chatbot.py
 # This file contains the Chatbot class and the main logic for handling user inp>
